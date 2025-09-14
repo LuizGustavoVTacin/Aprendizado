@@ -35,7 +35,7 @@ For example:
 ### **INT**
 
 Type | Bytes | Minimum Value | Maximum Value | Minimum Value Unsigned | Maximum Value Unsigned
------|-------|---------------|--------------
+-|-|-|-|-|-
 TINYINT | 1 | -128 | 127 | 0 | 255
 SMALLINT | 2 | -32768 | 32767 | 0 | 65535
 MEDIUMINT | 3 | -8388608 | 8388607 | 0 | 16777215
